@@ -1,10 +1,4 @@
-@font-face {
-    font-family: 'Rezvan';
-    src: url('../fonts/Rezvan.ttf')  format('truetype');
-}
-body{
-    font-family: 'Rezvan' !important;
-}
+
 /*navbar*/
 #flipkart-navbar {
     background-color: #f0eeee;
@@ -209,10 +203,10 @@ body{
     z-index:99;
 }
 #next :hover{
-    background: url("../images/right_over.png");
+    background: url("right_over.png");
 }
 #prev :hover{
-    background: url("../images/left_over.png");
+    background: url("left_over.png");
 }
 /*end slider*/
 /*part3*/
